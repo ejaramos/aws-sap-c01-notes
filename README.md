@@ -34,7 +34,7 @@ The prep sources below are ordered by best material to review based on feedback 
     11. Backup and Recovery Approaches Using AWS (https://d0.awsstatic.com/whitepapers/Backup_Archive_and_Restore_Approaches_Using_AWS.pdf)
     12. Amazon Virtual Private Cloud Connectivity Options (https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpc-connectivity-options.pdf)
     13. How AWS Pricing Works (http://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
-4. *T**utorialsdojo*
+4. *Tutorialsdojo*
     1. AWS Certified Solutions Architect Professional Exam Study Path (https://tutorialsdojo.com/aws-certified-solutions-architect-professional/)
     2. Comparison of AWS Services Cheatsheet (https://tutorialsdojo.com/comparison-of-aws-services/)
     3. AWS Cheat Sheets - Compute Services (https://tutorialsdojo.com/aws-cheat-sheets-compute-services/)
@@ -47,9 +47,13 @@ The prep sources below are ordered by best material to review based on feedback 
     10. AWS Cheat Sheets - Organizations (https://tutorialsdojo.com/aws-organizations/)
     11. AWS Cheat Sheets - Management Tools (https://tutorialsdojo.com/aws-cheat-sheets-management-tools/)
     12. AWS Cheat Sheets - Other Services (https://tutorialsdojo.com/aws-cheat-sheets-other-aws-services/)
+
+
 5. *Udemy*
     1. AWS Certified Solutions Architect S Practice Exams (https://www.udemy.com/course/aws-solutions-architect-professional-practice-exams-amazon/)
     2. Udemy - Stephane Maarek (https://www.udemy.com/course/aws-solutions-architect-professional/)
+
+
 6. *Linux Academy*
     1. AWS Certified Solutions Architect - Professional Level (https://linuxacademy.com/cp/modules/view/id/245) (Only sections you are weak on)
 7. *Whizlab*
