@@ -65,7 +65,7 @@ The prep sources below are ordered by best material to review based on feedback 
 10. *YouTube*
     1. [AWS re:Invent 2019: Serverless architectural patterns and best practices (ARC307-R3) ](https://www.youtube.com/watch?v=9IYpGTS7Jy0&t=936s)
 11. *Qwiklabs*
-    1. 
+    1. ????
 12. *Kiku*
     1. Exam Readiness https://kiku.aws.training/Details/eLearning?id=34737
     2. Advanced Architecting on AWS https://kiku.aws.training/Details/InstructorLedTraining?id=52505
